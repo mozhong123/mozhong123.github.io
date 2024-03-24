@@ -41,8 +41,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/mozhong123"
-  dockerhub        : "https://hub.docker.com/u/zhao17"
+  github           : "github.com/mozhong123"
+  dockerhub        : "hub.docker.com/u/zhao17"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
